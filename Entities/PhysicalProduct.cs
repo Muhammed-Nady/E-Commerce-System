@@ -1,6 +1,7 @@
-﻿using System.Xml.Linq;
+﻿using E_Commerce_System.Abstract;
+using System.Xml.Linq;
 
-namespace ECommerceApp
+namespace E_Commerce_System.Entities
 {
     public class PhysicalProduct : Product
     {

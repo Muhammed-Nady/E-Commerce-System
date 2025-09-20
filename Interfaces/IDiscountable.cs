@@ -1,4 +1,4 @@
-﻿namespace ECommerceApp
+﻿namespace E_Commerce_System.Interfaces
 {
     public interface IDiscountable
     {

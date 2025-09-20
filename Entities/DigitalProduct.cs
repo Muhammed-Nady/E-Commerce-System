@@ -1,6 +1,8 @@
-﻿using System.Xml.Linq;
+﻿using E_Commerce_System.Abstract;
+using E_Commerce_System.Interfaces;
+using System.Xml.Linq;
 
-namespace ECommerceApp
+namespace E_Commerce_System.Entities
 {
     public class DigitalProduct : Product, IDiscountable
     {

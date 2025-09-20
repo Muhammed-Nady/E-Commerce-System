@@ -1,4 +1,5 @@
 ﻿using System;
+using E_Commerce_System.Core;
 
 namespace ECommerceApp
 {

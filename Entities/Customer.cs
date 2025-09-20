@@ -1,6 +1,7 @@
-﻿using System;
+﻿using E_Commerce_System.Abstract;
+using System;
 
-namespace ECommerceApp
+namespace E_Commerce_System.Entities
 {
     public class Customer : Person
     {

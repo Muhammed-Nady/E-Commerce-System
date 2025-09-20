@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ECommerceApp
+namespace E_Commerce_System.Abstract
 {
     public abstract class Product
     {

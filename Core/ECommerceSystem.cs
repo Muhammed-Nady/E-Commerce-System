@@ -1,8 +1,11 @@
-﻿using System;
+﻿using E_Commerce_System.Abstract;
+using E_Commerce_System.Entities;
+using E_Commerce_System.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ECommerceApp
+namespace E_Commerce_System.Core
 {
     public class ECommerceSystem
     {

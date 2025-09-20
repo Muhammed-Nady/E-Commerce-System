@@ -1,4 +1,6 @@
-﻿namespace ECommerceApp
+﻿using E_Commerce_System.Abstract;
+
+namespace E_Commerce_System.Core
 {
     public class CartItem
     {
